@@ -1,1 +1,7 @@
 Test1 file
+Welcome
+I learned
+1. init
+2. add
+3. commit
+4. origin
