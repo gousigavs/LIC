@@ -1,7 +1,9 @@
-Test1 file
-Welcome
-I learned
-1. init
-2. add
-3. commit
-4. origin
+<html>
+<head>
+Start your work
+</head>
+<body>
+Devops 
+</body>
+</html>
+>>>>>>> cfc2d0dc8749f7c4e817a3f5f6610e06459e8100
